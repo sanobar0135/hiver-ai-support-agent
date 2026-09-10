@@ -29,7 +29,7 @@ Build Baselines
 ↓
 AI Support Agent
 ┌────┼────────────┐
-↓ ↓ ↓
+↓        ↓        ↓
 Intent Retrieval Escalation
 ↓
 Reply Generation
